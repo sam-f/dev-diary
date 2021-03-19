@@ -10,7 +10,7 @@ Get CLS improvements by setting width/height on your image attributes
 
 the importance is not the actual number, rather the aspect ratio. The browser uses this to reserve space, meaning less content shift on load.
 
-# Loading
+## Loading
 
 Get perf increases by setting loading to equal `lazy`
 
